@@ -1,15 +1,19 @@
-body {background-color: darkslategray;
-
-}
-h1,h5,h6 {text-align: center;
-
-}
-.card-title {text-align: center;
-
+body {background-color: rgb(156, 206, 237);
 }
 
-.card-body {
+h1 {
+  text-align: center;
+}
+
+ #head-container {
    display: flex;
   justify-content: center;
   align-items: center;
+}
+
+#beginButton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
 }
