@@ -1,19 +1,20 @@
-body {background-color: rgb(156, 206, 237);
-}
-
-h1 {
-  text-align: center;
-}
-
  #head-container {
    display: flex;
   justify-content: center;
   align-items: center;
+  background-color: rgb(157, 204, 234);
 }
 
 #beginButton {
   display: flex;
   justify-content: center;
   align-items: center;
+
+}
+#app {
+  background-color: rgb(157, 204, 234);
+}
+
+#wizardForm { background-color: rgb(157, 204, 234);
 
 }
